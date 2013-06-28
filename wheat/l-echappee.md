@@ -1,4 +1,4 @@
-## Allagash White clone
+## L'échappée
 
 See recipe in source.
 
