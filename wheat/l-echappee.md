@@ -6,7 +6,7 @@ See recipe in source.
 
 [Homebrew Talk][hb]
 
-## Brewning notes
+## Brewing notes
 
 ### 2013-05-05
 
