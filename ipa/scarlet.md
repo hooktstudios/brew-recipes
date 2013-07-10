@@ -48,9 +48,9 @@
     5.0 oz Malt Cara 120 Lovibond
 
 - 26L starting water (close to max)
-- xL after mash (sparge to xl)
+- 20.5L after mash (sparge to 24L)
 - xL after boil (top to xl)
-- Wyeast 1056 American Ale
+- Wyeast 1056 American Ale (original recipe)
 
 
 ### 2013-05-20
