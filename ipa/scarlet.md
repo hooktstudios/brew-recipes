@@ -35,12 +35,12 @@
 ### 2013-07-10
 
     1.00 oz 13%aa Nugget 60'
-    0.50 oz 13%aa Magnum 30'
-    1.00 oz 16%aa Colombus 20'
-    1.25 oz 16%aa Colombus 0' or hopback
-    1.00 oz 8%aa Cascade 0' or hopback
-    1.00 oz 13%aa Magnum DH
-    1.00 oz 8%aa Cascade DH
+    0.50 oz 14.3%aa Magnum 30'
+    1.00 oz 12.9%aa Colombus 20'
+    1.25 oz 12.9%aa Colombus 0' or hopback
+    1.00 oz 6.5%aa Cascade 0' or hopback
+    1.00 oz 14.3%aa Magnum Dryhop
+    1.00 oz 6.5%aa Cascade Dryhop
 
 
     6.5 lbs Caramel Malt Pils, 2.3 Lovibond, Best Matlz, Germany
@@ -56,12 +56,12 @@
 ### 2013-05-20
 
     1.00 oz 13%aa Nugget 60'
-    0.50 oz 13%aa Magnum 30'
-    1.00 oz 16%aa Colombus 20'
-    1.25 oz 16%aa Colombus 0' or hopback
-    1.00 oz 8%aa Cascade 0' or hopback
-    1.00 oz 13%aa Magnum DH
-    1.00 oz 8%aa Cascade DH
+    0.50 oz 14.3%aa Magnum 30'
+    1.00 oz 12.9%aa Colombus 20'
+    1.25 oz 12.9%aa Colombus 0' or hopback
+    1.00 oz 6.5%aa Cascade 0' or hopback
+    1.00 oz 14.3%aa Magnum Dryhop
+    1.00 oz 6.5%aa Cascade Dryhop
 
 Used US-05 powder yeast instead of Cal-Ale.
 
