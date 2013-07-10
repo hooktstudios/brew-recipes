@@ -32,6 +32,27 @@
 
 ## Brewing notes
 
+### 2013-07-10
+
+    1.00 oz 13%aa Nugget 60'
+    0.50 oz 13%aa Magnum 30'
+    1.00 oz 16%aa Colombus 20'
+    1.25 oz 16%aa Colombus 0' or hopback
+    1.00 oz 8%aa Cascade 0' or hopback
+    1.00 oz 13%aa Magnum DH
+    1.00 oz 8%aa Cascade DH
+
+
+    6.5 lbs Caramel Malt Pils, 2.3 Lovibond, Best Matlz, Germany
+    7.0 lbs Munich Malt, 11.5 Lovibond
+    5.0 oz Malt Cara 120 Lovibond
+
+- 26L starting water (close to max)
+- xL after mash (sparge to xl)
+- xL after boil (top to xl)
+- Wyeast 1056 American Ale
+
+
 ### 2013-05-20
 
     1.00 oz 13%aa Nugget 60'
