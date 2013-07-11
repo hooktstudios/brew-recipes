@@ -51,7 +51,8 @@
 - 20.5L after mash (sparge to 24L)
 - xL after boil (top to xl)
 - Wyeast 1056 American Ale (original recipe)
-
+- Original gravity : 1.042 / 12 brix / 5.2% @ 75F
+- Final gravity : TBD
 
 ### 2013-05-20
 
