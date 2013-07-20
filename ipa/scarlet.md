@@ -49,9 +49,10 @@
 
 - 26L starting water (close to max)
 - 20.5L after mash (sparge to 24L)
-- xL after boil (top to xl)
+- 20L after boil (0 topping)
 - Wyeast 1056 American Ale (original recipe)
 - Original gravity : 1.042 / 12 brix / 5.2% @ 75F
+- Dry hop : 18 july 2013
 - Final gravity : TBD
 
 ### 2013-05-20
