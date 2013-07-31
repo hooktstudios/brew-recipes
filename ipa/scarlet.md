@@ -46,14 +46,21 @@
     6.5 lbs Caramel Malt Pils, 2.3 Lovibond, Best Matlz, Germany
     7.0 lbs Munich Malt, 11.5 Lovibond
     5.0 oz Malt Cara 120 Lovibond
+    
+    Wyeast 1056 American Ale (original recipe)
 
 - 26L starting water (close to max)
 - 20.5L after mash (sparge to 24L)
 - 20L after boil (0 topping)
-- Wyeast 1056 American Ale (original recipe)
-- Original gravity : 1.042 / 12 brix / 5.2% @ 75F
+
+- Brewing : 10 july 2013
 - Dry hop : 18 july 2013
-- Final gravity : TBD
+- Carboy : bucket only
+- Kegging : 31 july 2013
+
+- Original gravity : 1.044 / 12.4 brix / ~6.2%
+- Final gravity : 1.009 / 1.8 brix / 1.0%
+- Alcohol % : 5.2%
 
 ### 2013-05-20
 
@@ -65,7 +72,7 @@
     1.00 oz 14.3%aa Magnum Dryhop
     1.00 oz 6.5%aa Cascade Dryhop
 
-Used US-05 powder yeast instead of Cal-Ale.
+    US-05 powder yeast instead of Cal-Ale.
 
 - 23L starting water (not enough)
 - 18L after mash (sparge to 21L)
