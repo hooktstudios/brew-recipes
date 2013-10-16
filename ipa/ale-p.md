@@ -29,4 +29,6 @@ We've brew this one 4 times so far, always a good brew.
 
 10g centennial dry hop for 6 days
 
+*Special edition specific features.
+
 ```
