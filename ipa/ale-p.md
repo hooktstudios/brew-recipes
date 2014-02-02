@@ -32,3 +32,22 @@ We've brew this one 4 times so far, always a good brew.
 *Special edition specific features.
 
 ```
+
+
+### 2014-02-02 - Regular Edition
+
+```brew
+25L starting water
+16L after mash (sparge to 24L)
+xL after boil (top to xL)
+
+4200g Two-row (UK Maris Otter Blend)
+910g Vienna malt 9L
+230g Caramalt 9L
+150g Carapils 1.7-2.4L
+
+14g Centennial x4 @/15min
+10g Centennial at 0min
+
+10g Centennial dry hop
+```
