@@ -39,7 +39,7 @@ We've brew this one 4 times so far, always a good brew.
 ```brew
 25L starting water
 16L after mash (sparge to 24.5L)
-xL after boil (top to xL)
+20L after boil (no extra water added)
 
 4200g Two-row (UK Maris Otter Blend)
 910g Vienna malt 9L
